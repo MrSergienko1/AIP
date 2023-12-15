@@ -20,8 +20,8 @@ class Config(BaseSettings):
         extra="allow",
     )
 
-    bot_token: str = "API токен бота из https://t.me/BotFather"  # type: ignore
-    """Токен бота из @BotFather"""
+    bot_token: str = "6806043338:AAGfWXPeSxdOHfK4bl-aF4GvbCtALA-B2fo"  # type: ignore
+    """963627346"""
 
 
 config = Config()
